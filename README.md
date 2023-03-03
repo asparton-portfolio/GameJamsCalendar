@@ -1,3 +1,11 @@
-# GameJamsCalendar
+# Game Jams Calendar
 
-Web application able to scrap information about upcoming game jams, and insert it as an event inside a notion database
+## Project overview
+Game Jams Calendar is a personal tool with a simple web front-end which allows you to:
+- Fetch upcomming game jams by scraping
+- Display their information
+- Add the wanted event to my Notion Calendar
+
+## Project architecture
+
+![architecture](https://cdn.discordapp.com/attachments/808748311574085653/1081294748377153627/gjc-architecture.png)
